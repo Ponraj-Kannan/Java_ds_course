@@ -1,1 +1,0 @@
-<Greet topic="Linked List — Insert at Beginning"/>
